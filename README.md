@@ -3,16 +3,22 @@ These are the assumptions that we made when creating our EERD.
 
 • Transaction for a hire arrangement can only be done by one payment method (single 
 transaction).
+
 • Individual customer can have individual hire arrangement which reserves a single 
 vehicle whereas cooperate customers can have a cooperate hire arrangement which 
 reserves either a single vehicle or a fleet.
+
 • Fleet has a specific set of drivers assigned to it.
+
 • Hire arrangement invoice amount depends on the start hire centre located country’s 
 rate for the vehicle classification and vehicle model.
+
 • Cars4u is responsible for the insurance arrangements for some individual customers
 for their individual hire arrangements only.
+
 • Some individual customers request insurance for their individual hire arrangements 
 and CARS4U is only responsible for those insurance.
+
 • Some customers can have discounts (Cooperate customers maintain loyalty discounts 
 for individual vehicle hires and fleet discount for fleet hires)
 
