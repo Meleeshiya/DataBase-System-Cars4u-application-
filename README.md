@@ -1,5 +1,5 @@
 # DataBase-System-Cars4u-application-
-These are the assumptions that we made when creating our EERD.
+These are the assumptions that we made when creating  EERD.
 
 • Transaction for a hire arrangement can only be done by one payment method (single 
 transaction).
